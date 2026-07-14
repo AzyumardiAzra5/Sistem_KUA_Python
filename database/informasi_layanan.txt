@@ -1,0 +1,15 @@
+SYARAT|1. Surat Pengantar Nikah (Model N1) dari Desa/Kelurahan.
+SYARAT|2. Surat Persetujuan Mempelai (Model N3).
+SYARAT|3. Surat Izin Orang Tua (Model N4).
+SYARAT|4. Fotocopy KTP & Kartu Keluarga (KK).
+SYARAT|5. Fotocopy Ijazah terakhir.
+SYARAT|6. Pas foto latar biru ukuran 2x3 (4 lembar) dan 4x6 (2 lembar).
+BIAYA|Nikah di Kantor KUA (Jam Kerja): GRATIS (Rp0,00).
+BIAYA|Nikah di Luar Kantor/Luar Jam Kerja: Rp600.000,00 (Dibayarkan melalui Bank persepsi setelah verifikasi admin).
+JAMKERJA|Senin - Kamis: 08.00 - 16.00 WIB
+JAMKERJA|Jumat: 08.00 - 11.30 WIB
+KONTAK|Nama KUA: KUA Kecamatan Gebang
+KONTAK|Alamat: l. Pangeran Sutajaya No.81, Gebang Kulon, Kec. Gebang, Kabupaten Cirebon, Jawa Barat 45191
+KONTAK|Telepon: (021) 1234-5678
+KONTAK|Email: kua.gebang@kemenag.go.id
+KONTAK|WhatsApp Admin: 0812-3456-78901

@@ -1,0 +1,10 @@
+admin|admin123|admin|Staf KUA
+penghulu1|12345|penghulu|Apip Alfalah
+penghulu2|12345|penghulu|Chandra Ghiana
+1234567891234567|azra123|pengantin|Azyumardi Azra
+1112223334445556|azraaa123|pengantin|Azyumardi Azra Mirfah
+2222233333444444|eva123|pengantin|Eva amelia
+9999999999999999|azril123|pengantin|Azril Nabiliano
+8888888888888888|12345|pengantin|Dhenda
+3333333333333333|123|pengantin|nadhif
+1111222233334444|nopal123|pengantin|Nawfal Hidayatullah Al-Dzaki

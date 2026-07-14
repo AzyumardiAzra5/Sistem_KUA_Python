@@ -1,0 +1,8 @@
+REG001|1112223334445556|Sultan Agung|9876543210987654|Aulia Sarah|Solichun|2026-05-17|12:00|Masjid Al-Ikhlas|Dibatalkan|-|-
+REG002|2222233333444444|Michael Bradley|8888777766665555|Sekar|Sudrajat|2026-01-20|10:00|Masjid Agung|Selesai|Apip Alfalah|-
+REG003|9999999999999999|Azril Yandi|7777666655554444|Livy Renata|Nabiliano|2026-03-12|10:00|FKOM UNPAD|Dibatalkan|-|-
+REG004|3333333333333333|Nadhif|6666555544443333|Ines Putri|Wardoyo|2026-02-10|15:00|Masjid Raya|Terverifikasi|Chandra Ghiana|-
+REG005|1111222233334444|Nawfal Hidayatullah|5555444433332222|Bila Safira|Bapak Hidayatullah|2026-05-30|10:00|Hotel Aston|Selesai|Apip Alfalah|-
+REG006|1112223334445556|faiz Islami|1112223334445557|siva Aprilia|baist|2026-06-19|10:00|Masjid|Terverifikasi|Chandra Ghiana|-
+REG007|3201234567890001|Galih Ginanjar|3201234567890002|Rizka Nafiah|Pak Wali|2026-06-17|10:00|Hotel|Menunggu|-|-
+REG008|1234567891234567|Aloysius Agung|1112223334445556|Ajeng Febria|Rio Apriliawan|2026-06-21|10:00|Masjid|Menunggu|-
