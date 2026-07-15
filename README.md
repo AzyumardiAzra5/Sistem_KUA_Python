@@ -1,6 +1,6 @@
-# SILAKU - Sistem Informasi Layanan KUA
+# SILAKU - Sistem Layanan Administrasi Nikah KUA
 
-Aplikasi desktop untuk sistem pendaftaran dan layanan Kantor Urusan Agama (KUA), dibangun menggunakan Python dan CustomTkinter. Proyek ini dikembangkan untuk mata kuliah Interaksi Manusia dan Komputer (IMK).
+Aplikasi desktop untuk sistem layanan administrasi nikah pada Kantor Urusan Agama (KUA), dibangun menggunakan Python dan CustomTkinter. Proyek ini dikembangkan untuk mata kuliah Interaksi Manusia dan Komputer (IMK).
 
 ## Fitur
 
